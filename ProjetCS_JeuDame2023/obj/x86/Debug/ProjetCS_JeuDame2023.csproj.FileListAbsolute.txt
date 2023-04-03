@@ -1,0 +1,4 @@
+C:\Users\CSEG\Desktop\ProjetCS_JeuDame2023\ProjetCS_JeuDame2023\bin\Debug\ProjetCS_JeuDame2023.exe
+C:\Users\CSEG\Desktop\ProjetCS_JeuDame2023\ProjetCS_JeuDame2023\bin\Debug\ProjetCS_JeuDame2023.pdb
+C:\Users\CSEG\Desktop\ProjetCS_JeuDame2023\ProjetCS_JeuDame2023\obj\x86\Debug\ProjetCS_JeuDame2023.exe
+C:\Users\CSEG\Desktop\ProjetCS_JeuDame2023\ProjetCS_JeuDame2023\obj\x86\Debug\ProjetCS_JeuDame2023.pdb
